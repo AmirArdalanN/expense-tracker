@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-A simple command-line expense tracker application built in Python. This application allows users to manage their finances by adding, deleting, and viewing expenses. It also provides summaries of total expenses. 
+A simple command-line expense tracker application built in Python. This application allows users to manage their finances by adding, deleting, and viewing expenses. It also provides summaries of total expenses. This is one of the python project from [roadmap.sh](https://roadmap.sh/projects/expense-tracker).
 
 ## Features 
 
